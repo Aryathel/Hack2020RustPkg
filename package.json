@@ -1,15 +1,15 @@
 {
-  "name": "heroicos_hm_hack",
+  "name": "hack_az_module_testing",
   "collaborators": [
     "Heroicos_HM"
   ],
   "version": "0.1.0",
   "files": [
-    "heroicos_hm_hack_bg.wasm",
-    "heroicos_hm_hack.js",
-    "heroicos_hm_hack.d.ts"
+    "hack_az_module_testing_bg.wasm",
+    "hack_az_module_testing.js",
+    "hack_az_module_testing.d.ts"
   ],
-  "module": "heroicos_hm_hack.js",
-  "types": "heroicos_hm_hack.d.ts",
+  "module": "hack_az_module_testing.js",
+  "types": "hack_az_module_testing.d.ts",
   "sideEffects": "false"
 }

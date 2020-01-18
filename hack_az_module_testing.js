@@ -1,4 +1,4 @@
-import * as wasm from './heroicos_hm_hack_bg.wasm';
+import * as wasm from './hack_az_module_testing_bg.wasm';
 
 /**
 * @param {number} a
