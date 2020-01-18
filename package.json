@@ -1,0 +1,15 @@
+{
+  "name": "heroicos_hm_hack",
+  "collaborators": [
+    "Heroicos_HM"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "heroicos_hm_hack_bg.wasm",
+    "heroicos_hm_hack.js",
+    "heroicos_hm_hack.d.ts"
+  ],
+  "module": "heroicos_hm_hack.js",
+  "types": "heroicos_hm_hack.d.ts",
+  "sideEffects": "false"
+}
